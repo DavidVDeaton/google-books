@@ -1,4 +1,4 @@
-# google-books
+# Google Books Search
 
 # Table of Contents
 - [Table of contents](#table-of-contents)
