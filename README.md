@@ -3,7 +3,7 @@
 # Table of Contents
 - [Table of contents](#table-of-contents)
 - [General info](#general-info)
-= [Screenshot](#screenshot)
+- [Screenshot](#screenshot)
 - [Technology](#technology)
 - [Status](#status)
 - [Create By](#create-by)
