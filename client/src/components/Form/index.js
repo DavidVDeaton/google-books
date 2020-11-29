@@ -1,6 +1,7 @@
 import React from "react";
 
-function Form({ q, handleInputChange, handleFormSubmit }) {
+function Form({ bookEntry, handleInputChange, handleFormSubmit }) {
+  console.log(bookEntry);
   return (
     <form>
       <div className="form-group">
@@ -11,9 +12,9 @@ function Form({ q, handleInputChange, handleFormSubmit }) {
           className="form-control"
           id="Title"
           type="text"
-          value={q}
+          value={bookEntry}
           placeholder="Ready Player One"
-          name="q"
+          name="bookEntry"
           onChange={handleInputChange}
           required
         />
